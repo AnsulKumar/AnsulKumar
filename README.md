@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @AnshulRajak
-- 👀 I’m interested in AI Engineering, web dev, and many more selfcreating things
-- 🌱 I’m currently learning WEB and AI devlopment. 
-- 💞️ I’m looking to collaborate on a frontend project 
-- 📫 How to reach me ( mk308626701128@gmail.com ) 
+🎓 B.Tech CSE (AI & ML) @ Brainware University | 💻 Aspiring Software & AI Engineer
+
+🌱 Learning Python & C++ | Exploring DSA, Full-Stack Dev, ML & Deep Learning
+
+🔬 Interested in NumPy, Pandas, Scikit-learn, TensorFlow & PyTorch
+
+🎯 Building toward top tech internships | Competitive coding & project-driven learner
+
+🚀 On a mission to master Software Engineering + AI — one commit at a time
 
 <!---
 AnsulKumar/AnsulKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
